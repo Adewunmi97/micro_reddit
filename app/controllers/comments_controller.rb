@@ -1,5 +1,5 @@
 class CommentsController < ApplicationController
-    include CommentsHelper
+  include CommentsHelper
 
   def index
     @comments = Comment.all
