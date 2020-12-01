@@ -26,9 +26,9 @@ To get this project up and running locally, you must already have ruby and rails
 
 👤 **Adewunmi Shonibare Comfort**
 
--   Github: [@dasileker](https://github.com/Adewunmi97)
+-   Github: [@Adewenmi97](https://github.com/Adewunmi97)
 
 
 👤 **Zerradi Amine**
 
--   Github: [@Adewenmi97](https://github.com/dasileker)
+-   Github: [@dasileker](https://github.com/dasileker)
