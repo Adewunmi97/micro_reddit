@@ -46,7 +46,9 @@ class CommentsController < ApplicationController
 
     redirect_to comments_path(@comment)
   end
+
   private
+
   def comment_params
     params.require(:comment).permit(:body)
   end
